@@ -9,6 +9,8 @@ When macroeconomic instability drives price-sensitive consumers from established
 ---
 
 ## 📸 System Previews
+<img width="1904" height="888" alt="Screenshot 2026-05-21 134002" src="https://github.com/user-attachments/assets/c2ad5a80-e61e-4f5c-9ebe-c961f5ab9153" />
+
 
 <!-- INSERT IMAGE HERE: Dashboard Overview / Area Manager View -->
 
