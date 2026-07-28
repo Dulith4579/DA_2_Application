@@ -18,6 +18,9 @@ When macroeconomic instability drives price-sensitive consumers from established
 
 <!-- INSERT IMAGE HERE: Field Supervisor Form -->
 
+<img width="1911" height="660" alt="Screenshot 2026-05-21 133558" src="https://github.com/user-attachments/assets/83085f56-074c-4c37-b6b5-24fc1d4d6ff6" />
+
+
 *Figure 2: The Field Supervisor view restricted to data collection and route updates.*
 
 ---
