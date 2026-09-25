@@ -1,8 +1,8 @@
-# Hemas FMCG Distribution Channel Dashboard 📊
+#  FMCG Distribution Channel Dashboard 📊
 
 > **Strategic Micro-Market Tracking Engine vs. Generic Drift Vulnerabilities**
 
-A full-stack MERN (MongoDB, Express, React, Node.js) operational dashboard designed to monitor and combat "Generic Drift" within Hemas Holdings PLC's retail networks in Sri Lanka. 
+A full-stack MERN (MongoDB, Express, React, Node.js) operational dashboard designed to monitor and combat "Generic Drift" within  Companies's retail networks in Sri Lanka. 
 
 When macroeconomic instability drives price-sensitive consumers from established corporate brands to unregulated generic alternatives, this system provides real-time, route-level alerting before market share is irrevocably lost.
 
