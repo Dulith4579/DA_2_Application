@@ -70,4 +70,4 @@ The database structure is normalized across four distinct collections to optimiz
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com//.git](https://github.com//.git)
-cd hemas-fmcg-dashboard
+cd fmcg-dashboard
